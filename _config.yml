@@ -1,0 +1,11 @@
+title: "Communication Theory for Everyday Problems"
+description: "A public-facing guide to communication theory and AI-era communication challenges."
+url: "https://jacobw23-coder.github.io"
+baseurl: "/primer"
+github_username: "Jacobw23-Coder"
+repository_name: "primer"
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
+permalink: pretty
