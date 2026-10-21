@@ -6,10 +6,9 @@ title: Interpretation and intention
 
 This section explores intention through Umberto Eco's framework and extends it with intentio algorithmi: algorithmic intention as a practical category for AI-mediated communication.
 
-Starter direction for your analysis:
+Eco's Three Intentions 
 
-- Distinguish author intention, text intention, and reader intention.
-- Identify where algorithmic systems appear to "intend" outcomes through optimization.
-- Show what this additional category explains that classical models leave implicit.
-
+- **Author Intention** - What the speaker means to communicate
+- **Text Intention** - What  the message itself communicates
+- **Reader Intention** - How the audience interprets the message 
 Use this page to argue for a contemporary model of intention suited to AI-era communication.
