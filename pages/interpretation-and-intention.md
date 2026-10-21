@@ -4,21 +4,6 @@ title: Interpretation and intention
 ---
 <p class="subheading"><em>Why People Don't Always Understand What We Mean</em></p>
 
-<div class="page-embellishment" aria-hidden="true">
-  <svg class="eco-portrait" viewBox="0 0 64 64" role="img" aria-label="Stylized Umberto Eco portrait outline">
-    <path d="M23 11c2-4.2 5.2-6.5 9-6.5s7 2.3 9 6.5"></path>
-    <path d="M23 12.5c-1.3 2.2-1.5 5.5-.8 9.4.7 4.3 3.7 8.1 9.8 10.1 6.1-2 9.1-5.8 9.8-10.1.7-3.9.5-7.2-.8-9.4"></path>
-    <circle cx="27" cy="20" r="4.1"></circle>
-    <circle cx="37" cy="20" r="4.1"></circle>
-    <path d="M31.1 20h1.8"></path>
-    <path d="M22.8 18.8h-2.2m20.6 0h2.2"></path>
-    <path d="M28.5 27.3c1.1.7 2.1 1 3.5 1s2.4-.3 3.5-1"></path>
-    <path d="M24 27.5c1.2 5 4 7.4 8 7.4s6.8-2.4 8-7.4"></path>
-    <path d="M17 48c2.7-8.1 8.5-12.4 15-12.4S44.3 39.9 47 48"></path>
-    <path d="M23 39.2c2.7 2.8 5.7 4.2 9 4.2s6.3-1.4 9-4.2"></path>
-  </svg>
-</div>
-
 Umberto Eco, a philosopher and scholar in the field of communication, identified three intentions that affect the ways in which meaning is understood. 
 
 **Eco's Three Intentions:**
@@ -52,6 +37,6 @@ Umberto Eco, a philosopher and scholar in the field of communication, identified
 A contemporary model of communication should include a fourth intention, intentio algorithmi, to account for the growing role of AI in interpersonal communication. As a mediator with it's own interpretations and intentioins, AI has the ability to influence how messages are interpreted. 
 
 <div class="page-callout">
-  <strong><span class="callout-icon">✨</span> The Takeaway</strong>
+  <strong>The Takeaway</strong>
   <p>Understainding the effects of AI-mediated arguments means not only looking at Eco's three intentions, but also condisdering the ways in wich AI shapes the interpretation itself.</p>
 </div>
