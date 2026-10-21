@@ -159,7 +159,7 @@ h3 {
 h2 {
   max-width: 16ch;
   margin: 0 0 2rem;
-  font-size: clamp(2rem, 5vw, 3.35rem);
+  font-size: clamp(1.75rem, 4.2vw, 2.9rem);
   letter-spacing: -0.04em;
   line-height: 1;
 }
