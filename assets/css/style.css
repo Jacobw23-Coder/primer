@@ -178,8 +178,24 @@ h3 {
 .page-embellishment {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 0.75rem;
   margin: 0 0 1.5rem;
+}
+
+.eco-portrait {
+  width: 3.2rem;
+  height: 3.2rem;
+  padding: 0.35rem;
+  border: 1px solid var(--line);
+  border-radius: 0.9rem;
+  background: linear-gradient(135deg, rgba(122, 94, 74, 0.08), rgba(47, 93, 80, 0.08));
+  box-shadow: 0 10px 20px rgba(79, 61, 47, 0.06);
+  stroke: var(--bark-brown);
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
 }
 
 .page-embellishment span {
