@@ -3,16 +3,16 @@ layout: default
 title: Home
 ---
 
-Welcome to this project on communication theory in everyday life. This site introduces major schools of communication thought and shows how they help explain modern communication problems, especially those shaped by artificial intelligence.
+Welcome to this project on communication theory in everyday life. This site introduces major schools of communication thought and shows how they help explain the modern communication problem of AI-mediated arguments. 
 
 The goal is to make the commonplace visible. Many communication problems feel personal or random, but theory helps reveal recurring structures: who sends messages, who interprets them, where power sits, and how platforms shape meaning.
 
-Use the pages in the navigation to explore six different lenses. Each page is a working structure with starter text so you can replace, expand, and refine with your own arguments and examples.
+Through each of the six lenses explored in this page, the communication problem of AI-mediated arguments will be explored.
 
-## Suggested ways to use this site
+## AI-Mediated Arguments 
 
-- Start with one communication problem your audience already recognizes.
-- Compare how each theoretical lens explains the same issue differently.
-- End with practical guidance readers can apply in daily and professional contexts.
+AI-mediated arguments occur when people use artificial intelligence to interpret both their own arguments and the arguments of others.
+- Research shows that people exhibit self-serving bias when recounting the events of an argument.
+- When bias enters an AI chatbot, it affirmed users’ actions 49% more often than a human would on average.
 
-> This site is intentionally content-light so you can take ownership of the analysis and final voice.
+> Central Question: If AI is helping us interpret the meaning of others’ arguments, are we gaining a deeper understanding, or simply reflecting our own beliefs back onto ourselves?
