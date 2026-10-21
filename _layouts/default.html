@@ -12,17 +12,21 @@
     <a class="skip-link" href="#main-content">Skip to main content</a>
     <header class="site-header" role="banner" aria-label="Site header">
       <div class="container">
+        <div class="site-header-topline">
+          <span class="site-kicker">A field guide to communication</span>
+          <span class="site-edition">2026 edition</span>
+        </div>
         <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
         <p class="site-tagline">{{ site.description }}</p>
         <nav class="site-nav" aria-label="Main navigation">
           <ul>
-            <li><a href="{{ '/' | relative_url }}">Home</a></li>
-            <li><a href="{{ '/pages/transmission-view-and-limits/' | relative_url }}">Transmission View</a></li>
-            <li><a href="{{ '/pages/meaning-and-culture/' | relative_url }}">Meaning &amp; Culture</a></li>
-            <li><a href="{{ '/pages/interpretation-and-power/' | relative_url }}">Interpretation &amp; Power</a></li>
-            <li><a href="{{ '/pages/interpretation-and-intention/' | relative_url }}">Interpretation &amp; Intention</a></li>
-            <li><a href="{{ '/pages/what-the-reader-should-do/' | relative_url }}">What to Do</a></li>
-            <li><a href="{{ '/pages/how-i-built-this-site/' | relative_url }}">How This Site Was Built</a></li>
+            <li><a class="{% if page.url == '/' %}is-current{% endif %}" href="{{ '/' | relative_url }}"><span>00</span> Home</a></li>
+            <li><a href="{{ '/pages/transmission-view-and-limits/' | relative_url }}"><span>01</span> Transmission View</a></li>
+            <li><a href="{{ '/pages/meaning-and-culture/' | relative_url }}"><span>02</span> Meaning &amp; Culture</a></li>
+            <li><a href="{{ '/pages/interpretation-and-power/' | relative_url }}"><span>03</span> Interpretation &amp; Power</a></li>
+            <li><a href="{{ '/pages/interpretation-and-intention/' | relative_url }}"><span>04</span> Interpretation &amp; Intention</a></li>
+            <li><a href="{{ '/pages/what-the-reader-should-do/' | relative_url }}"><span>05</span> What to Do</a></li>
+            <li><a href="{{ '/pages/how-i-built-this-site/' | relative_url }}"><span>06</span> How This Site Was Built</a></li>
           </ul>
         </nav>
       </div>
