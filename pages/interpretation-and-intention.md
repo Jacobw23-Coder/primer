@@ -4,6 +4,13 @@ title: Interpretation and intention
 ---
 <p class="subheading"><em>Why People Don't Always Understand What We Mean</em></p>
 
+<div class="page-embellishment" aria-hidden="true">
+  <span>🧠</span>
+  <span>🗣️</span>
+  <span>🤖</span>
+  <span>✨</span>
+</div>
+
 Umberto Eco, a philosopher and scholar in the field of communication, identified three intentions that affect the ways in which meaning is understood. 
 
 **Eco's Three Intentions:**
@@ -36,6 +43,7 @@ Umberto Eco, a philosopher and scholar in the field of communication, identified
 
 A contemporary model of communication should include a fourth intention, intentio algorithmi, to account for the growing role of AI in interpersonal communication. As a mediator with it's own interpretations and intentioins, AI has the ability to influence how messages are interpreted. 
 
-**The Takeaway**
-
-Understainding the effects of AI-mediated arguments means not only looking at Eco's three intentions, but also condisdering the ways in wich AI shapes the interpretation itself. 
+<div class="page-callout">
+  <strong><span class="callout-icon">✨</span> The Takeaway</strong>
+  <p>Understainding the effects of AI-mediated arguments means not only looking at Eco's three intentions, but also condisdering the ways in wich AI shapes the interpretation itself.</p>
+</div>
