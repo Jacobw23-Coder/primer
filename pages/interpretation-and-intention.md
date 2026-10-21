@@ -2,6 +2,7 @@
 layout: default
 title: Interpretation and intention
 ---
+<p class="subheading"><em>Why People Don't Always Understand What We Mean</em></p>
 
 This section explores intention through Umberto Eco's framework and extends it with intentio algorithmi: algorithmic intention as a practical category for AI-mediated communication.
 
