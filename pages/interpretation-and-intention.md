@@ -6,7 +6,7 @@ title: Interpretation and intention
 
 This section explores intention through Umberto Eco's framework and extends it with intentio algorithmi: algorithmic intention as a practical category for AI-mediated communication.
 
-Eco's Three Intentions 
+Eco's Three Intentions: 
 
 - **Author Intention** - What the speaker means to communicate
 - **Text Intention** - What  the message itself communicates
