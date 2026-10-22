@@ -52,9 +52,11 @@ Claude Shannon and Warren Weaver's 1949 Transmission Model of communication show
 - **Semantic-** When a sender and reciever interpret the meanings of words differently, leading to confusion over what exactly is being said
 
 ***What It Does Well***
+
 The Transmission Model is helpful for explaining the processes by whcih a message moves between a sender and reciever. Additonally, it shows how technical errors can disrupt the sender, channel and reciever, leading to a potential lack of understanding.
 - **In AI-mediated arguments-** This model can help point out how missing context or incomplete prompting by the user can determine the responses they recieve from the chatbot. 
 
 ***Where It Falls Short***
+
 The accurate transmission of a model does not ensure that the reciever will interpret its meaning accurately. Human communication involves emotions, individual experiences and prior assumptions that a mathematical model simply cannot account for.
 - **In AI-mediated arguments-** It is important to consider that poelpe have their own experiences and emotions that are hard to replicate when writing a prompt. Additionally, messages from one communicator to another in an argument can be misinterpreted, leading to an innacturate portrayal of events to the chatbot, thus, leading to an unhelpful response. 
