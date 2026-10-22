@@ -4,8 +4,11 @@ title: The transmission view and its limits
 ---
 
 <figure class="transmission-flow" aria-labelledby="transmission-flow-caption">
+  <div class="transmission-noise-legend" aria-hidden="true">
+    <span>〰</span> noise can affect every part of the exchange
+  </div>
   <div class="transmission-flow-track">
-    <div class="transmission-node">
+    <div class="transmission-node transmission-noisy">
       <svg class="transmission-icon" viewBox="0 0 64 64" aria-hidden="true">
         <circle cx="32" cy="17" r="9"></circle>
         <path d="M15 51c1.5-11 7-17 17-17s15.5 6 17 17"></path>
@@ -15,25 +18,20 @@ title: The transmission view and its limits
 
     <span class="transmission-arrow" aria-hidden="true">→</span>
 
-    <div class="transmission-node transmission-channel">
-      <div class="transmission-noise" aria-hidden="true">〰</div>
+    <div class="transmission-node transmission-channel transmission-noisy">
       <svg class="transmission-icon" viewBox="0 0 64 64" aria-hidden="true">
-        <path d="M19 40 45 14"></path>
-        <path d="m39 20 5-5 5 5"></path>
-        <path d="M24 45 14 55"></path>
-        <path d="M31 38 53 60"></path>
-        <path d="M38 31 50 43"></path>
-        <path d="M11 25c6-6 15-6 21 0"></path>
-        <path d="M16 30c3-3 8-3 11 0"></path>
-        <circle cx="20" cy="34" r="2"></circle>
+        <circle cx="32" cy="34" r="7"></circle>
+        <path d="M32 27V14"></path>
+        <path d="M27 14h10"></path>
+        <path d="M19 24c3.5-4 8-6 13-6s9.5 2 13 6"></path>
+        <path d="M14 19c5-6 11-9 18-9s13 3 18 9"></path>
       </svg>
       <span>channel</span>
-      <small>noise</small>
     </div>
 
     <span class="transmission-arrow" aria-hidden="true">→</span>
 
-    <div class="transmission-node">
+    <div class="transmission-node transmission-noisy">
       <svg class="transmission-icon" viewBox="0 0 64 64" aria-hidden="true">
         <circle cx="32" cy="17" r="9"></circle>
         <path d="M15 51c1.5-11 7-17 17-17s15.5 6 17 17"></path>

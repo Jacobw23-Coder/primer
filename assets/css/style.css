@@ -216,6 +216,24 @@ h2 {
   text-align: center;
 }
 
+.transmission-noise-legend {
+  margin: 0 0 0.75rem;
+  color: var(--muted-brown);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.transmission-noise-legend span {
+  display: inline-block;
+  margin-right: 0.3rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 0;
+  transform: rotate(-12deg);
+}
+
 .transmission-flow-track {
   display: grid;
   grid-template-columns: minmax(5rem, 1fr) auto minmax(5rem, 1fr) auto minmax(5rem, 1fr);
@@ -249,6 +267,18 @@ h2 {
   stroke-width: 2.5;
 }
 
+.transmission-noisy::before {
+  position: absolute;
+  top: -0.2rem;
+  color: var(--muted-brown);
+  content: "〰";
+  font-size: 1.15rem;
+  font-weight: 400;
+  line-height: 1;
+  opacity: 0.8;
+  transform: rotate(-12deg);
+}
+
 .transmission-arrow {
   padding: 0 0.4rem;
   color: var(--muted-brown);
@@ -261,23 +291,6 @@ h2 {
   border: 1px dashed rgba(122, 94, 74, 0.42);
   border-radius: 0.75rem;
   background: rgba(255, 255, 255, 0.48);
-}
-
-.transmission-noise {
-  position: absolute;
-  top: -0.75rem;
-  right: -0.4rem;
-  color: var(--muted-brown);
-  font-size: 1.35rem;
-  line-height: 1;
-  transform: rotate(-12deg);
-}
-
-.transmission-channel small {
-  color: var(--muted-brown);
-  font-size: 0.63rem;
-  font-weight: 600;
-  letter-spacing: 0.12em;
 }
 
 .transmission-flow figcaption {
