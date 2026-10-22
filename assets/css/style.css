@@ -404,6 +404,30 @@ h3 {
   stroke-width: 1.7;
 }
 
+.reading-list {
+  list-style: none;
+  margin-top: 0.5rem;
+  padding-left: 0;
+}
+
+.reading-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+}
+
+.reading-icon {
+  flex: 0 0 1.35rem;
+  width: 1.35rem;
+  height: 1.35rem;
+  margin-top: 0.28rem;
+  fill: none;
+  stroke: var(--forest-green);
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.7;
+}
+
 p,
 ul,
 ol {
