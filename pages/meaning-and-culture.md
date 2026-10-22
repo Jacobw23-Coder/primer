@@ -26,10 +26,14 @@ Semiotics, or the study of signs, aims to explain how poeple interpret and expla
   </li>
 </ul>
 
-Starter direction for your analysis:
+**For Example:**
 
-- Identify signs, symbols, and codes in your chosen communication problem.
-- Explain how the same message can mean different things in different contexts.
-- Show how culture shapes what counts as "normal," "credible," or "true."
+- The word **"aggressive"** in different contexts can describe entirely different behaviors.
 
-Use this page to demonstrate that communication is not only transport; it is also meaning-making.
+**Negative:** In a business setting, someone who is being "aggressive" with their sales approach could describe a slaesperson who is actively working hard to sell.
+
+**Positive:** In personal relationships, if someone is being agressive toward another, they likely are being percievd as angry, intimidating or even scary. 
+
+In this example, the context can change the meaninf drastically, making it vital to recognize its importance. 
+
+**In AI-mediated arguments,** 
