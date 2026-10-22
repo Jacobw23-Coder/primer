@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interpretation and intention
+title: Interpretation and Intention
 ---
 <p class="subheading"><em>Why People Don't Always Understand What We Mean</em></p>
 

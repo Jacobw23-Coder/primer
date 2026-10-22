@@ -1,14 +1,18 @@
 ---
 layout: default
-title: Interpretation and power
+title: Interpretation and Power
 ---
+<p class="subheading"><em>Who decides what messages mean?</em></p>
 
-This section uses Stuart Hall's encoding/decoding framework to examine power and interpretation. Messages are encoded within institutional contexts and decoded by audiences with varied social positions.
+Stuart Hall's encoding/decoding framework examines how audiences interpret messages that are created to reflect a specific meaning. 
 
-Starter direction for your analysis:
+**Halls Three Readings**
 
-- Who has the power to encode dominant meanings?
-- Which audiences accept, negotiate, or resist those meanings?
-- How do media systems and AI platforms influence which readings become visible?
+**Dominant Reading**
+- The audience accepts the authors intended meaning of the message
+**Negotiated Reading** 
+- The audience accepts some of the message, bbut rejects parts of it due to their own experience.
+**Oppositional Reading**
+- The audience understands fully but completeley rejects the meaning of the message.
 
 Use this page to show that interpretation is not neutral; it is structured by power.

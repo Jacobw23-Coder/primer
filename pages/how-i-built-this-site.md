@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How I built this site
+title: How I Built This Site
 ---
 
 This page documents my process and tool choices.

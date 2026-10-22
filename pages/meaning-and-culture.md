@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meaning and culture
+title: Meaning and Culture
 ---
 
 Semiotics, or the study of signs, aims to explain how poeple interpret and explain the meaning of messages through words, symbols and gestures. These forms of communication, while locally accepted by some groups, cultures or individuals, do not carry universal meaning. This ambiguity can lead to misunderstanding.

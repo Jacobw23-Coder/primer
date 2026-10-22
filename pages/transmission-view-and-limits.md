@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The transmission view and its limits
+title: The Transmission View and Its Limits
 ---
 **Communication is more than just sending and recieving messages**
 

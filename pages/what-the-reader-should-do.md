@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What the reader should do
+title: What The Reader Should Do
 ---
 
 This section turns theory into practical guidance. It should help non-specialist readers act more intentionally in communication settings shaped by social media, institutions, and AI tools.
