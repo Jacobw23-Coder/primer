@@ -208,39 +208,17 @@ h2 {
 }
 
 .transmission-flow {
-  position: relative;
-  isolation: isolate;
-  margin: -0.5rem 0 2.5rem;
-  padding: clamp(1.25rem, 4vw, 2rem);
-  border: 1px solid rgba(79, 93, 80, 0.18);
-  border-radius: var(--radius);
-  background: rgba(230, 234, 220, 0.48);
+  margin: -0.5rem 0 2rem;
+  padding: 0.5rem 0;
   text-align: center;
-}
-
-.transmission-flow::before {
-  position: absolute;
-  z-index: -1;
-  top: 50%;
-  right: 1.5rem;
-  left: 1.5rem;
-  height: 2.6rem;
-  border-top: 1px dotted rgba(122, 94, 74, 0.34);
-  border-bottom: 1px dotted rgba(122, 94, 74, 0.34);
-  background: rgba(122, 94, 74, 0.05);
-  content: "";
-  transform: translateY(-50%);
 }
 
 .transmission-noise-label {
   display: block;
   width: fit-content;
-  margin: 0.85rem auto 0;
-  padding: 0.1rem 0.5rem;
-  border-radius: 999px;
-  background: var(--paper);
+  margin: 0.5rem auto 0;
   color: var(--muted-brown);
-  font-size: 0.68rem;
+  font-size: 0.62rem;
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -250,14 +228,14 @@ h2 {
   display: grid;
   grid-template-columns: minmax(5rem, 1fr) auto minmax(5rem, 1fr) auto minmax(5rem, 1fr);
   align-items: center;
-  max-width: 42rem;
+  max-width: 34rem;
   margin: 0 auto;
 }
 
 .transmission-node {
   position: relative;
   display: flex;
-  min-height: 7rem;
+  min-height: 5.5rem;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -270,8 +248,8 @@ h2 {
 }
 
 .transmission-icon {
-  width: 3.15rem;
-  height: 3.15rem;
+  width: 2.5rem;
+  height: 2.5rem;
   fill: none;
   stroke: var(--forest-green);
   stroke-linecap: round;
@@ -280,17 +258,15 @@ h2 {
 }
 
 .transmission-arrow {
-  padding: 0 0.4rem;
+  padding: 0 0.25rem;
   color: var(--muted-brown);
   font-family: "Space Grotesk", sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   line-height: 1;
 }
 
 .transmission-channel {
-  border: 1px dashed rgba(122, 94, 74, 0.42);
-  border-radius: 0.75rem;
-  background: rgba(255, 255, 255, 0.48);
+  padding: 0 0.35rem;
 }
 
 .home-guide {
