@@ -3,9 +3,8 @@ layout: default
 title: How I built this site
 ---
 
-This page documents your process and tool choices.
+This page documents my process and tool choices.
 
-Starter direction for your write-up:
 
 - Why you selected this stack (Jekyll + GitHub Pages + workflow automation).
 - How you organized layout, styles, and page structure for non-technical readers.
