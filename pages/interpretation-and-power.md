@@ -11,9 +11,9 @@ Stuart Hall's encoding/decoding framework examines how audiences interpret messa
 **Dominant Reading**
 - The audience accepts the authors intended meaning of the message
 
-
 **Negotiated Reading** 
 - The audience accepts some of the message, bbut rejects parts of it due to their own experience.
+
 **Oppositional Reading**
 - The audience understands fully but completeley rejects the meaning of the message.
 
