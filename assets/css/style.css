@@ -207,6 +207,87 @@ h2 {
   line-height: 1;
 }
 
+.transmission-flow {
+  margin: -0.5rem 0 2.5rem;
+  padding: clamp(1.25rem, 4vw, 2rem);
+  border: 1px solid rgba(79, 93, 80, 0.18);
+  border-radius: var(--radius);
+  background: rgba(230, 234, 220, 0.48);
+  text-align: center;
+}
+
+.transmission-flow-track {
+  display: grid;
+  grid-template-columns: minmax(5rem, 1fr) auto minmax(5rem, 1fr) auto minmax(5rem, 1fr);
+  align-items: center;
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+.transmission-node {
+  position: relative;
+  display: flex;
+  min-height: 7rem;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  color: var(--bark-brown);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.transmission-icon {
+  width: 3.15rem;
+  height: 3.15rem;
+  fill: none;
+  stroke: var(--forest-green);
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2.5;
+}
+
+.transmission-arrow {
+  padding: 0 0.4rem;
+  color: var(--muted-brown);
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.transmission-channel {
+  border: 1px dashed rgba(122, 94, 74, 0.42);
+  border-radius: 0.75rem;
+  background: rgba(255, 255, 255, 0.48);
+}
+
+.transmission-noise {
+  position: absolute;
+  top: -0.75rem;
+  right: -0.4rem;
+  color: var(--muted-brown);
+  font-size: 1.35rem;
+  line-height: 1;
+  transform: rotate(-12deg);
+}
+
+.transmission-channel small {
+  color: var(--muted-brown);
+  font-size: 0.63rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+}
+
+.transmission-flow figcaption {
+  max-width: 38rem;
+  margin: 1.25rem auto 0;
+  color: var(--stone-gray);
+  font-size: 0.86rem;
+  line-height: 1.5;
+}
+
 .home-guide {
   margin: 2.5rem 0 3rem;
   padding: 1.25rem;
@@ -413,6 +494,19 @@ blockquote {
 
   .lens-grid {
     grid-template-columns: 1fr;
+  }
+
+  .transmission-flow {
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+  }
+
+  .transmission-flow-track {
+    grid-template-columns: minmax(4rem, 1fr) auto minmax(4.5rem, 1fr) auto minmax(4rem, 1fr);
+  }
+
+  .transmission-arrow {
+    padding: 0 0.15rem;
   }
 
   article {
