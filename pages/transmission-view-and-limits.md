@@ -3,12 +3,9 @@ layout: default
 title: The transmission view and its limits
 ---
 
-<figure class="transmission-flow" aria-labelledby="transmission-flow-caption">
-  <div class="transmission-noise-legend" aria-hidden="true">
-    <span>〰</span> noise can affect every part of the exchange
-  </div>
+<figure class="transmission-flow" aria-label="Sender, channel, and receiver with noise affecting the full exchange">
   <div class="transmission-flow-track">
-    <div class="transmission-node transmission-noisy">
+    <div class="transmission-node">
       <svg class="transmission-icon" viewBox="0 0 64 64" aria-hidden="true">
         <circle cx="32" cy="17" r="9"></circle>
         <path d="M15 51c1.5-11 7-17 17-17s15.5 6 17 17"></path>
@@ -18,20 +15,23 @@ title: The transmission view and its limits
 
     <span class="transmission-arrow" aria-hidden="true">→</span>
 
-    <div class="transmission-node transmission-channel transmission-noisy">
+    <div class="transmission-node transmission-channel">
       <svg class="transmission-icon" viewBox="0 0 64 64" aria-hidden="true">
-        <circle cx="32" cy="34" r="7"></circle>
-        <path d="M32 27V14"></path>
+        <rect x="25" y="25" width="14" height="14" rx="2"></rect>
+        <path d="M25 29H12v9h13"></path>
+        <path d="M39 29h13v9H39"></path>
+        <path d="M16 29v9"></path>
+        <path d="M48 29v9"></path>
+        <path d="M32 25V14"></path>
         <path d="M27 14h10"></path>
-        <path d="M19 24c3.5-4 8-6 13-6s9.5 2 13 6"></path>
-        <path d="M14 19c5-6 11-9 18-9s13 3 18 9"></path>
+        <circle cx="32" cy="45" r="2"></circle>
       </svg>
       <span>channel</span>
     </div>
 
     <span class="transmission-arrow" aria-hidden="true">→</span>
 
-    <div class="transmission-node transmission-noisy">
+    <div class="transmission-node">
       <svg class="transmission-icon" viewBox="0 0 64 64" aria-hidden="true">
         <circle cx="32" cy="17" r="9"></circle>
         <path d="M15 51c1.5-11 7-17 17-17s15.5 6 17 17"></path>
@@ -39,7 +39,7 @@ title: The transmission view and its limits
       <span>receiver</span>
     </div>
   </div>
-  <figcaption id="transmission-flow-caption">A message moves from sender to receiver through a channel, where noise can interfere.</figcaption>
+  <span class="transmission-noise-label">noise</span>
 </figure>
 
 This section introduces the transmission model associated with Shannon and Weaver. It is useful when communication is treated as signal transfer: sender, channel, noise, and receiver.

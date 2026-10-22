@@ -208,6 +208,8 @@ h2 {
 }
 
 .transmission-flow {
+  position: relative;
+  isolation: isolate;
   margin: -0.5rem 0 2.5rem;
   padding: clamp(1.25rem, 4vw, 2rem);
   border: 1px solid rgba(79, 93, 80, 0.18);
@@ -216,22 +218,32 @@ h2 {
   text-align: center;
 }
 
-.transmission-noise-legend {
-  margin: 0 0 0.75rem;
+.transmission-flow::before {
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  right: 1.5rem;
+  left: 1.5rem;
+  height: 2.6rem;
+  border-top: 1px dotted rgba(122, 94, 74, 0.34);
+  border-bottom: 1px dotted rgba(122, 94, 74, 0.34);
+  background: rgba(122, 94, 74, 0.05);
+  content: "";
+  transform: translateY(-50%);
+}
+
+.transmission-noise-label {
+  display: block;
+  width: fit-content;
+  margin: 0.85rem auto 0;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+  background: var(--paper);
   color: var(--muted-brown);
-  font-size: 0.7rem;
+  font-size: 0.68rem;
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-}
-
-.transmission-noise-legend span {
-  display: inline-block;
-  margin-right: 0.3rem;
-  font-size: 1.1rem;
-  font-weight: 400;
-  line-height: 0;
-  transform: rotate(-12deg);
 }
 
 .transmission-flow-track {
@@ -267,18 +279,6 @@ h2 {
   stroke-width: 2.5;
 }
 
-.transmission-noisy::before {
-  position: absolute;
-  top: -0.2rem;
-  color: var(--muted-brown);
-  content: "〰";
-  font-size: 1.15rem;
-  font-weight: 400;
-  line-height: 1;
-  opacity: 0.8;
-  transform: rotate(-12deg);
-}
-
 .transmission-arrow {
   padding: 0 0.4rem;
   color: var(--muted-brown);
@@ -291,14 +291,6 @@ h2 {
   border: 1px dashed rgba(122, 94, 74, 0.42);
   border-radius: 0.75rem;
   background: rgba(255, 255, 255, 0.48);
-}
-
-.transmission-flow figcaption {
-  max-width: 38rem;
-  margin: 1.25rem auto 0;
-  color: var(--stone-gray);
-  font-size: 0.86rem;
-  line-height: 1.5;
 }
 
 .home-guide {
