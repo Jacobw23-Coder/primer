@@ -4,7 +4,7 @@ title: What The Reader Should Do
 ---
 <p class="subheading"><em>Think critically, question appropriately, communicate responsibly</em></p>
 
-**Effective communication in arguments** is about more than talking to another person. There is complexity at every step from encoding one's own message and delivering it through a channel, to recieving and decoding. It is important to also consider the immense context and experience that two people as individuals are subject to.
+**Effective communication in arguments** is about more than talking to another person. There is complexity at every step from encoding one's own message and delivering it through a channel, to receiving and decoding. It is important to also consider the immense context and experience that two people as individuals are subject to.
 
 **What To Do:**
 
@@ -46,7 +46,7 @@ title: What The Reader Should Do
       <circle cx="16" cy="8" r="2.5"></circle>
       <path d="M3.5 18c.3-3 1.8-4.5 4.5-4.5s4.2 1.5 4.5 4.5M11.5 18c.3-3 1.8-4.5 4.5-4.5s4.2 1.5 4.5 4.5"></path>
     </svg>
-    <span>Return to the person for a onversation. Ask them directly about the things that you need clarified, and give them a chance to do the same.</span>
+    <span>Return to the person for a conversation. Ask them directly about the things that you need clarified, and give them a chance to do the same.</span>
   </li>
 </ul>
 

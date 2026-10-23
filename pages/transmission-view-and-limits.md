@@ -2,7 +2,7 @@
 layout: default
 title: The Transmission View and Its Limits
 ---
-**Communication is more than just sending and recieving messages**
+**Communication is more than just sending and receiving messages**
 
 <figure class="transmission-flow" aria-label="Sender, channel, and receiver with noise affecting the full exchange">
   <div class="transmission-flow-track">
@@ -43,20 +43,20 @@ title: The Transmission View and Its Limits
   <span class="transmission-noise-label">noise</span>
 </figure>
 
-Claude Shannon and Warren Weaver's 1949 Transmission Model of communication shows how messages travel from a sender, through a channel, and to a reciever. Throughout this transmission, the sender, reciever, and channel can be affected by noise. Noise is anything that can disrupt the transmisson of a message at any stage.  
+Claude Shannon and Warren Weaver's 1949 Transmission Model of communication shows how messages travel from a sender, through a channel, and to a receiver. Throughout this transmission, the sender, receiver, and channel can be affected by noise. Noise is anything that can disrupt the transmission of a message at any stage.  
 
 ***Noise Can Be...***
-- **Physical-** Any external sound or distraction including siens, horns or loud music 
+- **Physical-** Any external sound or distraction including sirens, horns or loud music 
 - **Psychological-** Internal distractions such as stress, emotional state or preexisting assumptions
 - **Physiological-** Physical distractions within a person such as symptoms from illness, fatigue or a headache
-- **Semantic-** When a sender and reciever interpret the meanings of words differently, leading to confusion over what exactly is being said
+- **Semantic-** When a sender and receiver interpret the meanings of words differently, leading to confusion over what exactly is being said
 
 ***What It Does Well***
 
-The Transmission Model is helpful for explaining the processes by whcih a message moves between a sender and reciever. Additonally, it shows how technical errors can disrupt the sender, channel and reciever, leading to a potential lack of understanding.
-- **In AI-mediated arguments-** This model can help point out how missing context or incomplete prompting by the user can determine the responses they recieve from the chatbot. 
+The Transmission Model is helpful for explaining the processes by which a message moves between a sender and receiver. Additionally, it shows how technical errors can disrupt the sender, channel and receiver, leading to a potential lack of understanding.
+- **In AI-mediated arguments-** This model can help point out how missing context or incomplete prompting by the user can determine the responses they receive from the chatbot. 
 
 ***Where It Falls Short***
 
-The accurate transmission of a model does not ensure that the reciever will interpret its meaning accurately. Human communication involves emotions, individual experiences and prior assumptions that a mathematical model simply cannot account for.
-- **In AI-mediated arguments-** It is important to consider that poelpe have their own experiences and emotions that are hard to replicate when writing a prompt. Additionally, messages from one communicator to another in an argument can be misinterpreted, leading to an innacturate portrayal of events to the chatbot, thus, leading to an unhelpful response. 
+The accurate transmission of a model does not ensure that the receiver will interpret its meaning accurately. Human communication involves emotions, individual experiences and prior assumptions that a mathematical model simply cannot account for.
+- **In AI-mediated arguments-** It is important to consider that people have their own experiences and emotions that are hard to replicate when writing a prompt. Additionally, messages from one communicator to another in an argument can be misinterpreted, leading to an inaccurate portrayal of events to the chatbot, thus, leading to an unhelpful response. 

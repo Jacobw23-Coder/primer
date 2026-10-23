@@ -32,11 +32,11 @@ Umberto Eco, a philosopher and scholar in the field of communication, identified
   </li>
 </ul>
 
-**In communication, these inentions can sometimes misallign. A harmless joke could be interpreted as funny, unfunny or even offensive**
+**In communication, these intentions can sometimes misalign. A harmless joke could be interpreted as funny, unfunny or even offensive**
 
-A contemporary model of communication should include a fourth intention, intentio algorithmi, to account for the growing role of AI in interpersonal communication. As a mediator with it's own interpretations and intentioins, AI has the ability to influence how messages are interpreted. 
+A contemporary model of communication should include a fourth intention, intentio algorithmi, to account for the growing role of AI in interpersonal communication. As a mediator with its own interpretations and intentions, AI has the ability to influence how messages are interpreted. 
 
 <div class="page-callout">
   <strong>The Takeaway</strong>
-  <p>Understainding the effects of AI-mediated arguments means not only looking at Eco's three intentions, but also condisdering the ways in wich AI shapes the interpretation itself.</p>
+  <p>Understanding the effects of AI-mediated arguments means not only looking at Eco's three intentions, but also considering the ways in which AI shapes the interpretation itself.</p>
 </div>
